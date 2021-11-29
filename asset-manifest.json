@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mcarringtone/Giphy-App/static/css/main.578c9915.chunk.css",
-    "main.js": "/mcarringtone/Giphy-App/static/js/main.0434da07.chunk.js",
-    "main.js.map": "/mcarringtone/Giphy-App/static/js/main.0434da07.chunk.js.map",
-    "runtime-main.js": "/mcarringtone/Giphy-App/static/js/runtime-main.b16b6cbc.js",
-    "runtime-main.js.map": "/mcarringtone/Giphy-App/static/js/runtime-main.b16b6cbc.js.map",
-    "static/js/2.e27c7965.chunk.js": "/mcarringtone/Giphy-App/static/js/2.e27c7965.chunk.js",
-    "static/js/2.e27c7965.chunk.js.map": "/mcarringtone/Giphy-App/static/js/2.e27c7965.chunk.js.map",
-    "static/js/3.152109bf.chunk.js": "/mcarringtone/Giphy-App/static/js/3.152109bf.chunk.js",
-    "static/js/3.152109bf.chunk.js.map": "/mcarringtone/Giphy-App/static/js/3.152109bf.chunk.js.map",
-    "index.html": "/mcarringtone/Giphy-App/index.html",
-    "static/css/main.578c9915.chunk.css.map": "/mcarringtone/Giphy-App/static/css/main.578c9915.chunk.css.map",
-    "static/js/2.e27c7965.chunk.js.LICENSE.txt": "/mcarringtone/Giphy-App/static/js/2.e27c7965.chunk.js.LICENSE.txt"
+    "main.css": "//Giphy-App/static/css/main.578c9915.chunk.css",
+    "main.js": "//Giphy-App/static/js/main.0434da07.chunk.js",
+    "main.js.map": "//Giphy-App/static/js/main.0434da07.chunk.js.map",
+    "runtime-main.js": "//Giphy-App/static/js/runtime-main.057d26f6.js",
+    "runtime-main.js.map": "//Giphy-App/static/js/runtime-main.057d26f6.js.map",
+    "static/js/2.e27c7965.chunk.js": "//Giphy-App/static/js/2.e27c7965.chunk.js",
+    "static/js/2.e27c7965.chunk.js.map": "//Giphy-App/static/js/2.e27c7965.chunk.js.map",
+    "static/js/3.152109bf.chunk.js": "//Giphy-App/static/js/3.152109bf.chunk.js",
+    "static/js/3.152109bf.chunk.js.map": "//Giphy-App/static/js/3.152109bf.chunk.js.map",
+    "index.html": "//Giphy-App/index.html",
+    "static/css/main.578c9915.chunk.css.map": "//Giphy-App/static/css/main.578c9915.chunk.css.map",
+    "static/js/2.e27c7965.chunk.js.LICENSE.txt": "//Giphy-App/static/js/2.e27c7965.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b16b6cbc.js",
+    "static/js/runtime-main.057d26f6.js",
     "static/js/2.e27c7965.chunk.js",
     "static/css/main.578c9915.chunk.css",
     "static/js/main.0434da07.chunk.js"
